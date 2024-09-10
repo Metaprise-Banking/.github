@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-![Node js](image/Frame 2610925.png)
+![Node js](https://github.com/Metaprise-Banking/.github/blob/main/image/Frame%202610925.png)
 
 # Metaprise API library  
 
